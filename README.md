@@ -1,1 +1,3 @@
 # advent-of-code-2018
+
+Inte de snyggate lösningarna...
